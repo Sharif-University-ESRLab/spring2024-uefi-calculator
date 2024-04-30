@@ -2,9 +2,9 @@
 ![Logo](https://via.placeholder.com/600x150?text=Your+Logo+Here+600x150)
 
 
-# Project Title
+# UEFI Calculator
 
-A brief description of what this project does and who it's for comes here.
+Our Project is a UEFI Calculator which is capable of basic mathematical operations with a minimal UI.
 
 
 ## Tools

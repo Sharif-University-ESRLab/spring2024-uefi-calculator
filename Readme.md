@@ -11,10 +11,8 @@ Our Project is a UEFI Calculator that is capable of basic mathematical operation
 ## Tools
 In this section, you should mention the hardware or simulators utilized in your project.
 - Qemu
-- Gem5
-- ESP32
-- Raspberry Pi 3B
-- Temperature Sensor
+- OVMP
+- EDK2
 
 
 ## Implementation Details

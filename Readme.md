@@ -1,10 +1,11 @@
 
-![Logo](https://via.placeholder.com/600x150?text=Your+Logo+Here+600x150)
+![LOGO](https://github.com/Sharif-University-ESRLab/spring2024-uefi-calculator/assets/79264802/88ffe13b-b0a1-4777-909d-6388c96c0ecc)
+
 
 
 # UEFI Calculator
 
-Our Project is a UEFI Calculator which is capable of basic mathematical operations with a minimal UI.
+Our Project is a UEFI Calculator that is capable of basic mathematical operations with a minimal UI.
 
 
 ## Tools

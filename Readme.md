@@ -46,19 +46,18 @@ Your text comes here
 
 
 ## Results
-In this section, you should present your results and provide an explanation for them.
+After successfully running the calculator, we will encounter the following page:
 
-Using image is required.
+Now we will run some calculations to make sure that our application works fine:
 
 ## Related Links
-Some links related to your project come here.
  - [EDK II](https://github.com/tianocore/edk2)
- - [ESP32 Pinout](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/)
- - [Django Doc](https://docs.djangoproject.com/en/5.0/)
+ - [QEMU](https://www.qemu.org/)
+ - [OVMF](https://github.com/tianocore/tianocore.github.io/wiki/OVMF)
 
 
 ## Authors
-Authors and their github link come here.
-- [@Author1](https://github.com/Sharif-University-ESRLab)
-- [@Author2](https://github.com/Sharif-University-ESRLab)
+- [Ali Salesi](https://github.com/AlisaLC)
+- [Ali Pasha Montaseri](https://github.com/alipashamontaseri)
+- [Kamyar Kazari](https://github.com/kmykz)
 

@@ -24,31 +24,26 @@ Feel free to use sub-topics for your projects. If your project consists of multi
 
 ## How to Run
 
-In this part, you should provide instructions on how to run your project. Also if your project requires any prerequisites, mention them. 
+To run the application first we need to run EDK2 on top of the QEMU. We have used the following guide to do this and run a simple hello world UEFI app.
+https://ursache.io/posts/uefi-hello-world-2023/
 
-#### Examples:
-#### Build Project
-Your text comes here
-```bash
-  build --platform=OvmfPkg/OvmfPkgX64.dsc --arch=X64 --buildtarget=RELEASE --tagname=GCC5
-```
+Here is a screenshot of running QEMU:
 
-#### Run server
-Your text comes here
-```bash
-  pyhton server.py -p 8080
-```
+![photo_2024-06-07 19 41 27](https://github.com/Sharif-University-ESRLab/spring2024-uefi-calculator/assets/79264802/fd07cb51-31d5-4ab3-ab80-43c457321b84)
 
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `-p` | `int` | **Required**. Server port |
+
 
 
 
 ## Results
 After successfully running the calculator, we will encounter the following page:
+![photo_2024-06-07 19 41 24](https://github.com/Sharif-University-ESRLab/spring2024-uefi-calculator/assets/79264802/6c32d45f-e3e1-419c-96f6-4d13a738ea18)
 
 Now we will run some calculations to make sure that our application works fine:
+![photo_2024-06-07 19 41 20](https://github.com/Sharif-University-ESRLab/spring2024-uefi-calculator/assets/79264802/53f19d14-7707-4a88-be4c-71d3725e3bad)
+![photo_2024-06-07 19 41 20](https://github.com/Sharif-University-ESRLab/spring2024-uefi-calculator/assets/79264802/2cc61c60-7268-47b5-9a01-86b038c7da2d)
+
+
 
 ## Related Links
  - [EDK II](https://github.com/tianocore/edk2)
